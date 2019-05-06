@@ -1,0 +1,7 @@
+C:\Users\Adam White\Desktop\My Labs\Capstone2Task\Capstone2Task\obj\Debug\Capstone2Task.csprojAssemblyReference.cache
+C:\Users\Adam White\Desktop\My Labs\Capstone2Task\Capstone2Task\obj\Debug\Capstone2Task.csproj.CoreCompileInputs.cache
+C:\Users\Adam White\Desktop\My Labs\Capstone2Task\Capstone2Task\bin\Debug\Capstone2Task.exe.config
+C:\Users\Adam White\Desktop\My Labs\Capstone2Task\Capstone2Task\bin\Debug\Capstone2Task.exe
+C:\Users\Adam White\Desktop\My Labs\Capstone2Task\Capstone2Task\bin\Debug\Capstone2Task.pdb
+C:\Users\Adam White\Desktop\My Labs\Capstone2Task\Capstone2Task\obj\Debug\Capstone2Task.exe
+C:\Users\Adam White\Desktop\My Labs\Capstone2Task\Capstone2Task\obj\Debug\Capstone2Task.pdb
